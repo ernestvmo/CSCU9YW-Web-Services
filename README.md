@@ -1,5 +1,5 @@
 # CSCU9YW-Web-Services
-This project was realized as a group assignment for the course CSCU9YW - Web Services at the University of Stirling. The system was created using SOAP (document/literal) to establish a connection between a service and a client, where the service fetches the contact's information from a database (which for this assignment was stored locally).
+This project was realized as an assignment for the course CSCU9YW - Web Services at the University of Stirling. The system was created using SOAP (document/literal) to establish a connection between a service and a client, where the service fetches the contact's information from a database (which for this assignment was stored locally). The zip file contain both the service and the client projects.
 
 ## Assignment Problem
 The aim of this assignment is to create a web service that acts as a contacts database. You may
